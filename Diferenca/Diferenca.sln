@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diferenca", "Diferenca\Diferenca.csproj", "{24C7B9BB-D026-433F-A2A9-40D0055534AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C7B9BB-D026-433F-A2A9-40D0055534AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C7B9BB-D026-433F-A2A9-40D0055534AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C7B9BB-D026-433F-A2A9-40D0055534AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C7B9BB-D026-433F-A2A9-40D0055534AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB901D4B-0761-4BBD-BE8C-FA2F60F385F8}
+	EndGlobalSection
+EndGlobal
