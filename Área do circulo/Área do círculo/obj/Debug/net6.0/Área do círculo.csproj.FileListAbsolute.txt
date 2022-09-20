@@ -1,0 +1,30 @@
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\bin\Debug\net6.0\Área do círculo.exe
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\bin\Debug\net6.0\Área do círculo.deps.json
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\bin\Debug\net6.0\Área do círculo.runtimeconfig.json
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\bin\Debug\net6.0\Área do círculo.dll
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\bin\Debug\net6.0\Área do círculo.pdb
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.csproj.AssemblyReference.cache
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.AssemblyInfoInputs.cache
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.AssemblyInfo.cs
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.csproj.CoreCompileInputs.cache
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.dll
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\obj\Debug\net6.0\refint\Área do círculo.dll
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.pdb
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.genruntimeconfig.cache
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Área do círculo\Área do círculo\obj\Debug\net6.0\ref\Área do círculo.dll
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\bin\Debug\net6.0\Área do círculo.exe
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\bin\Debug\net6.0\Área do círculo.deps.json
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\bin\Debug\net6.0\Área do círculo.runtimeconfig.json
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\bin\Debug\net6.0\Área do círculo.dll
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\bin\Debug\net6.0\Área do círculo.pdb
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.csproj.AssemblyReference.cache
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.AssemblyInfoInputs.cache
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.AssemblyInfo.cs
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.csproj.CoreCompileInputs.cache
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.dll
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\obj\Debug\net6.0\refint\Área do círculo.dll
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.pdb
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\obj\Debug\net6.0\Área do círculo.genruntimeconfig.cache
+C:\Users\Kayo\Desktop\Curso - C#\Projetos - Testes\Exercícios Beecrowd\Área do círculo\Área do círculo\obj\Debug\net6.0\ref\Área do círculo.dll
