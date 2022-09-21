@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempoDeUmEvento", "TempoDeUmEvento\TempoDeUmEvento.csproj", "{D62F2C8C-7260-4886-849D-ED8AD7CC0374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62F2C8C-7260-4886-849D-ED8AD7CC0374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62F2C8C-7260-4886-849D-ED8AD7CC0374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62F2C8C-7260-4886-849D-ED8AD7CC0374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62F2C8C-7260-4886-849D-ED8AD7CC0374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CAE5516-6511-4029-8A0F-2A41F5D5E1E8}
+	EndGlobalSection
+EndGlobal
