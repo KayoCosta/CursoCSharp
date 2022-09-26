@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervalo", "Intervalo\Intervalo.csproj", "{E244E0EC-77B1-49D9-8F58-5F0A8B4BDEF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E244E0EC-77B1-49D9-8F58-5F0A8B4BDEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E244E0EC-77B1-49D9-8F58-5F0A8B4BDEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E244E0EC-77B1-49D9-8F58-5F0A8B4BDEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E244E0EC-77B1-49D9-8F58-5F0A8B4BDEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE20AAB5-8C7A-480B-A076-01614E0C2C3A}
+	EndGlobalSection
+EndGlobal
